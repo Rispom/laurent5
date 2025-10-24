@@ -1,9 +1,7 @@
 {
-  "domain": "laurent",
-  "name": "Laurent",
-  "codeowners": [
-    "@rispom"
-  ],
+  "domain": "laurent_app",
+  "name": "Laurent5",
+  "codeowners": ["@rispom"],
   "config_flow": true,
   "dependencies": [],
   "documentation": "https://github.com/Rispom/laurent5",

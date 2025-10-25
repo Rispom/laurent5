@@ -1,4 +1,6 @@
 {
   "name": "Laurent 5",
+  "domains": ["switch"],
+  "homeassistant": "2025.10.3"
   "country": ["RU"],
 }

@@ -1,5 +1,5 @@
 {
-  "domain": "laurent_app",
+  "domain": "laurent",
   "name": "Laurent5",
   "codeowners": ["@rispom"],
   "config_flow": true,

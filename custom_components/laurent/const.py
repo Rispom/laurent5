@@ -2,7 +2,7 @@
 
 from typing import Final
 
-DOMAIN: Final = "laurent"
+DOMAIN: Final = "Laurent"
 MANUFACTURER: Final = "KernelChip"
 
 DEFAULT_NAME: Final = "Laurent"

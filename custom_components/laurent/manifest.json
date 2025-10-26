@@ -1,5 +1,5 @@
 {
-  "domain": "laurent",
+  "domain": "Laurent",
   "name": "Laurent5",
   "codeowners": ["@rispom"],
   "config_flow": true,

@@ -24,7 +24,7 @@ class LaurentData:
         elif fw.startswith("LX"):
             return "Laurent-128"
         elif fw.startswith("L"):
-            return "Laurent-2"
+            return "Laurent-5"
         else:
             return "Unknown Model"
 
